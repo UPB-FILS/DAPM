@@ -1,0 +1,32 @@
+Realise par: Zamfir Mihaela et Popescu Carla 1240
+
+
+Description
+La Leland Stanford Junior University, plus connue sous le nom d'université Stanford, est une université américaine privée, située au cœur de la Silicon Valley au sud de San Francisco, séparée de Palo Alto par l'avenue El Camino Real. Elle a notamment participé à l'élaboration d'Internet. Elle tire son nom du fils de ses fondateurs, Leland et Jane Stanford : Leland Stanford Junior était un homme d'affaires et homme politique américain du XIXe siècle.
+Parmi ses professeurs et chercheurs, on compte actuellement 18 prix Nobel. Dans le domaine sportif, le club du Stanford Cardinal défend les couleurs de l'université Stanford. Deux membres de l’Académie française sont actuellement professeurs à Stanford : René Girard(professeur émérite) et Michel Serres
+L’université Stanford figure dans le peloton de tête des classements des meilleures universités dans le monde. Le classement académique des universités mondiales par l'université Jiao Tong de Shanghai classe ainsi l’université Stanford à la 2e place mondiale pour l’année 2011.
+L’université Stanford est classée 2e dans le classement des universités les plus globales (The Top 100 Global Universities) réalisé par le magazine américain Newsweek en 20066.
+Le classement de référence américain US News classe également, depuis de nombreuses années, l’université Stanford et ses différentes écoles dans le peloton de tête des universités américaines.
+L’application pour l’Android du site de l’université est basse sur le site web. L’application permet de visualiser les informations générales sur l’université, informations sur les facultés, l’admission, sur le campus et les informations sur les programmes de recherche.
+Architecture
+  L’application contient :
+-	  un seul écran
+-	7 buttons(News,Events,Athletics,Maps&Directions,Contact&Directory,Links et Full site)
+-	un serch bar
+Les autres applications associées : 
+-	Facebook bouton
+-	LinkedIn bouton
+-	YouTube bouton
+-	Twitter bouton
+Pour ça ont  été utilisés les langages de programmation suivants : 
+-	HTML5
+-	JavaScript framework(+ Jquery)
+-	Translation framework
+-	CSS
+
+Proposer votre propre approche pour implémenter une application similaire
+Pour trouver plus facile toutes les bâtiments qui se trouvent dans le campus, je crois qu’est mieux d’implémenter un système de géolocalisation ou quelques cartes.   
+Parce que sont beaucoup des personnes étrangères qui accèdent cette application   est outils d’avoir un traduction en beaucoup des langues étrangères. 
+
+
+

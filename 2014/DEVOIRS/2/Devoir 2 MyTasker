@@ -1,0 +1,63 @@
+MyTasker - iOS
+
+
+Adrian Teodorescu
+Sarbu Mircea
+1240F
+
+
+1.	Courte description de l’application
+MyTasker est une nouvelle approche pour les rappels et les civils sur la base des listes de tâches. Concepts de la gestion de projet et gestion du temps sont réunis dans MyTasker pour aider l'utilisateur à comprendre quelle est la meilleure utilisation de leur temps en ce moment. MyTasker est prévu pour l'iPad et l'iPhone.
+
+
+MyTasker s'ouvre sur une vue quotidienne qui présente les catégories de tâches qui doivent être travaillées maintenant basé sur le temps et la date. Les catégories peuvent être configurées pour afficher - vous les jours de semaine spécifiées et / ou moments précis fois. Les tâches peuvent être associés à ces catégories pour permettre au système de décider ce que pour montrer à tout le jour, la date et l'heure.
+
+
+Concepts de gestion du temps sont également intégrés dans MyTasker en permettant à l' utilisateur de spécifier manuel TM attributs (par exemple, urgente, importante, d'affaires, Divertissement, ... ) pour établir la priorité entre les tâches.
+
+
+Concepts de gestion de projet sont en outre intégrés à garder le travail dans les délais. L'utilisateur peut également spécifier la durée tâche va prendre et la date de départ souhaitée pour mettre davantage l' ordre dans lequel les tâches apparaissent. L'utilisateur peut spécifier une tâche os à être répété et MyTasker reportera tâches après la date de début / durée sont expiré.
+
+
+MyTasker soutient simulation permettant à l'utilisateur de regarder une date sur le calendrier pour voir ce que sera la situation de la tâche pour ce jour-là.
+
+
+Enfin, MyTasker a été conçu autour des nouvelles normes de IOS7 de l'interface utilisateur rend l'application facile à lire et à utiliser. Les barres de navigation et les mouvements de glissement horizontales prennent l'utilisateur d'un écran à améliorer la vitesse et de la perception.
+
+
+
+2.	L’architecture: les éléments utilisés, les intentions, les outres applications
+
+
+
+Les éléments utilisés:
+•	5 écrans
+•	meme image pour le fond
+•	navigation bar
+•	checkBoxButton()
+•	2 moins dans l’écran
+•	text field et text view
+•	3 buttons: OK, Delete, Cancel
+•	UIEvent()
+•	Alarm
+
+
+Les intentions:
+•	Calendar
+•	Notification
+- (BOOL)application:(UIApplication *)application
+didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
+   ...
+   // Register for push notifications
+   [application registerForRemoteNotificationTypes:
+                                UIRemoteNotificationTypeBadge |
+                               UIRemoteNotificationTypeAlert |         	
+                            	UIRemoteNotificationTypeSound];
+
+
+
+3.	Proposer votre propre approche pour implémenter une application similaire
+
+Posibilité de choisir le type de notification,  combien de temps avant la notification se produit, sonnerie de notification personnalisées, me rappeler dans x - jours / heures / minutes répétition.
+
+

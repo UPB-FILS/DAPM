@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyRing</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_new">new</string>
+    <string name="action_edit">edit</string>
+    <string name="action_delete">delete</string>
+    <string name="title_activity_save_">Save Secret</string>
+    <string name="textView1">Please enter your secret :</string>
+    <string name="button_save">Save</string>
+    <string name="save">Message enregistre</string>
+
+</resources>

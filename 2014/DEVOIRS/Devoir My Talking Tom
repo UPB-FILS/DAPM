@@ -1,0 +1,45 @@
+My Talking Tom - Android
+
+Banica Oana
+Teodorescu Adrian
+1240 F
+
+Courte description de l’application
+
+Adopter votre propre bébé Tom. Nourrissez-le , jouez avec lui et nourrir lui!
+
+Habillez-le comme vous le souhaitez en choisissant parmi une large sélection de couleurs fourrure, des chapeaux et des lunettes. Vous pouvez même décorer sa maison et la rendre plus confortable!
+
+Jouez avec Talking Tom comme jamais auparavant et regarder comme il devient une partie de votre vie quotidienne.
+
+Les applications Talking Tom originaux ont été téléchargés plus de 500 millions de fois et atteint pas. 1 dans 140 pays.
+
+CARACTÉRISTIQUES:
+Nourrissez votre propre Tom : Jouez à des jeux avec lui , le nourrir ses aliments préférés, rentrez lui dans son lit.
+Profitez des émotions de la vie comme: Tom peut être heureux, affamé, somnolent, ennuyé... ses émotions changent selon la façon dont vous jouez avec lui.
+Libérez votre créativité: Créez votre propre Tom en choisissant de 1000 de combinaisons de fourrures, des vêtements et des meubles.
+Obtenez des récompenses que vous progressez: Aide Tom grandir à travers 9 niveaux différents et 50 niveaux de déverrouillage de nouveaux éléments et de pièces que vous allez!
+Interagir avec Tom: Discussion et Tom répète encore ce que vous dites. Poke, accident vasculaire cérébral et chatouiller lui, et montre comment il réagit.
+
+AVIS:
+     Les utilisateurs peuvent lire et accéder à tous les niveaux de l'application et toutes les caractéristiques nécessaires pour progresser dans le jeu sans faire des achats in-app en utilisant l'argent réel. Les pièces d'or peuvent être gagnés en jouant dans l'application des mini-jeux, aimer l'application sur Facebook et de progresser au prochain niveau. Les utilisateurs peuvent également acheter des pièces d' or avec de l'argent réel. Certains articles sont bloqués et disponibles à des niveaux plus élevés de l'application. Pour acheter des articles verrouillés avant d'atteindre le niveau approprié, les utilisateurs devront passer plus de pièces d'or que si ils attendent que ces articles débloquer.
+
+
+
+
+Expliquer l’architecture: les éléments utilisés, les intentions, les outres applications
+
+Les éléments utilisés:
+5 écrans
+modifications de l'image en fonction de l'heure du jour
+boutons pour choisir différentes actions pour Tom
+UIEvent()
+Child mode
+Les intentions:
+Notifications
+
+
+Proposer votre propre approche pour implémenter une application similaire
+
+Possibilité d'interagir avec les autres personnages.
+

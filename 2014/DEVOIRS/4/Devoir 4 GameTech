@@ -1,0 +1,28 @@
+GameTech
+
+Sarbu Mircea
+Teodorescu Adrian
+1240 F
+
+Courte description de l’application
+
+GameTech est une conférence axée sur l'utilisateur unique de traitement des technologies de jeux qui favorisent la formation de combattant. Experts de jeux discuteront de l'état actuel des technologies de jeux. Gouvernement, l'industrie et le milieu universitaire partageront leurs connaissances, de la recherche et de la technologie sur les mondes virtuels et des jeux pour la formation.
+
+
+Expliquer l’architecture: les éléments utilisés, les intentions, les outres applications
+
+Les éléments utilisés:
+1 écran
+meme image pour le fond
+Search bar
+7 buttons
+Les intentions:
+Facebook button
+Twitter button
+GameTech mobile button
+
+
+Proposer votre propre approche pour implémenter une application similaire
+
+	Pour ordonner les speakers par la société, non seulement par son nom. Mettre en œuvre un Google maps.
+
