@@ -1,7 +1,7 @@
 Liens vers les projets 2014-2015
 ================================
 
-1) Alexandra Matreata, Anda Craioveanu: https://github.com/Alexandra-Matreata/ApplicationDAPM
+1) Alexandra Matreata, Anda Craioveanu: https://github.com/Alexandra-Matreata/ApplicationDAPM https://github.com/Alexandra-Matreata/Kanji-Jisho
 
 2) Mirela Urse, Oana Hotescu, Lavinia Stoian, Andreea Radu, Ana Greculescu: https://github.com/MirelaUrse/DAPM
 
